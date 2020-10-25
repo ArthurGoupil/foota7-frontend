@@ -1,0 +1,77 @@
+/* MAIN */
+* {
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
+html,
+input,
+textarea,
+button {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 500;
+  color: #1a4651;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body,
+input,
+button,
+textarea {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+/* FONTS */
+b {
+  font-weight: bold;
+}
+i {
+  font-style: italic;
+}
+
+/* TITLES */
+h1 {
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 22px;
+  line-height: 27px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: bold;
+}
+
+/* FLEXBOX */
+.d-flex {
+  display: flex;
+}
+.justify-center {
+  justify-content: center;
+}
+.space-between {
+  justify-content: space-between;
+}
+.space-around {
+  justify-content: space-around;
+}
+.align-center {
+  align-items: center;
+}
+
+.align-end {
+  align-items: flex-end;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
