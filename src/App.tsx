@@ -1,36 +1,45 @@
 import React from 'react';
-import axios from 'axios';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import styled from 'styled-components';
 
-import { ICalendarOfGames } from './types/FGSTDataTypes';
+import { normalSpace } from './styles/StylingConstants';
 
 import './styles/reset.css';
 import './styles/index.css';
 
-const App = () => {
-  const [data, setData] = React.useState<any>(null);
+import Nav from './components/Nav/';
+import Home from './pages/Home';
 
-  const fetchFSGTWebsiteData = async () => {
-    const response = await axios.get('http://localhost:3001/fgst-data');
-    setData(response.data);
-  };
-
-  React.useEffect(() => {
-    fetchFSGTWebsiteData();
-  }, []);
-
-  if (data) {
-    console.log(data);
-  }
-
-  if (data) {
-    return (
-      <>
-        <div>{data[13][3].resultOrLocation}</div>
-      </>
-    );
-  } else {
-    return <div>loading</div>;
-  }
+const App: React.FC = () => {
+  return (
+    <Router>
+      <Root className='d-flex'>
+        <Nav />
+        <MainContainer className='d-flex flex-column align-center'>
+          <Main className='d-flex justify-center'>
+            <Switch>
+              <Route path='/'>
+                <Home />
+              </Route>
+            </Switch>
+          </Main>
+        </MainContainer>
+      </Root>
+    </Router>
+  );
 };
 
 export default App;
+
+const Root = styled.div`
+  background-color: #f5f5f5;
+`;
+
+const MainContainer = styled.div`
+  width: 100%;
+`;
+
+const Main = styled.main`
+  width: 100%;
+  padding: ${normalSpace};
+`;

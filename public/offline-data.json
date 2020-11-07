@@ -1,0 +1,447 @@
+{
+  "gamesCalendar": [
+    [
+      {
+        "date": "2020-09-20T22:00:00.000Z",
+        "firstTeam": "LES 7 MERCENAIRES FC",
+        "secondTeam": "EXEMPT",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-09-20T22:00:00.000Z",
+        "firstTeam": "LES 13 SALOPARDS DLP",
+        "secondTeam": "LA SALESIENNE DE PARIS",
+        "resultOrLocation": "2 - 2"
+      },
+      {
+        "date": "2020-09-20T22:00:00.000Z",
+        "firstTeam": "OLYMPIQUE GONES DE PARIS",
+        "secondTeam": "SC SOCIETE CREME",
+        "resultOrLocation": "2 - 4"
+      },
+      {
+        "date": "2020-09-20T22:00:00.000Z",
+        "firstTeam": "REAL DE MARTINE",
+        "secondTeam": "LES COUSINS FC",
+        "resultOrLocation": "8 - 1"
+      }
+    ],
+    [
+      {
+        "date": "2020-09-27T22:00:00.000Z",
+        "firstTeam": "EXEMPT",
+        "secondTeam": "LES 13 SALOPARDS DLP",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-09-27T22:00:00.000Z",
+        "firstTeam": "SC SOCIETE CREME",
+        "secondTeam": "LES 7 MERCENAIRES FC",
+        "resultOrLocation": "4 - 9"
+      },
+      {
+        "date": "2020-09-27T22:00:00.000Z",
+        "firstTeam": "LA SALESIENNE DE PARIS",
+        "secondTeam": "REAL DE MARTINE",
+        "resultOrLocation": "3 - 2"
+      },
+      {
+        "date": "2020-09-27T22:00:00.000Z",
+        "firstTeam": "LES COUSINS FC",
+        "secondTeam": "OLYMPIQUE GONES DE PARIS",
+        "resultOrLocation": "2 - 4"
+      }
+    ],
+    [
+      {
+        "date": "2020-10-04T22:00:00.000Z",
+        "firstTeam": "OLYMPIQUE GONES DE PARIS",
+        "secondTeam": "EXEMPT",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-10-04T22:00:00.000Z",
+        "firstTeam": "LA SALESIENNE DE PARIS",
+        "secondTeam": "LES COUSINS FC",
+        "resultOrLocation": "3 - 1"
+      },
+      {
+        "date": "2020-10-04T22:00:00.000Z",
+        "firstTeam": "REAL DE MARTINE",
+        "secondTeam": "LES 7 MERCENAIRES FC",
+        "resultOrLocation": "4 - 12"
+      },
+      {
+        "date": "2020-10-04T22:00:00.000Z",
+        "firstTeam": "LES 13 SALOPARDS DLP",
+        "secondTeam": "SC SOCIETE CREME",
+        "resultOrLocation": "9 - 2"
+      }
+    ],
+    [
+      {
+        "date": "2020-10-18T22:00:00.000Z",
+        "firstTeam": "EXEMPT",
+        "secondTeam": "LA SALESIENNE DE PARIS",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-10-18T22:00:00.000Z",
+        "firstTeam": "LES 7 MERCENAIRES FC",
+        "secondTeam": "OLYMPIQUE GONES DE PARIS",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-10-18T22:00:00.000Z",
+        "firstTeam": "LES COUSINS FC",
+        "secondTeam": "LES 13 SALOPARDS DLP",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-10-18T22:00:00.000Z",
+        "firstTeam": "SC SOCIETE CREME",
+        "secondTeam": "REAL DE MARTINE",
+        "resultOrLocation": "Reporté"
+      }
+    ],
+    [
+      {
+        "date": "2020-10-25T23:00:00.000Z",
+        "firstTeam": "EXEMPT",
+        "secondTeam": "LES COUSINS FC",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-10-25T23:00:00.000Z",
+        "firstTeam": "OLYMPIQUE GONES DE PARIS",
+        "secondTeam": "REAL DE MARTINE",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-10-25T23:00:00.000Z",
+        "firstTeam": "SC SOCIETE CREME",
+        "secondTeam": "LA SALESIENNE DE PARIS",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-10-25T23:00:00.000Z",
+        "firstTeam": "LES 7 MERCENAIRES FC",
+        "secondTeam": "LES 13 SALOPARDS DLP",
+        "resultOrLocation": "Reporté"
+      }
+    ],
+    [
+      {
+        "date": "2020-11-08T23:00:00.000Z",
+        "firstTeam": "REAL DE MARTINE",
+        "secondTeam": "EXEMPT",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-11-08T23:00:00.000Z",
+        "firstTeam": "LES COUSINS FC",
+        "secondTeam": "SC SOCIETE CREME",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-11-08T23:00:00.000Z",
+        "firstTeam": "LES 13 SALOPARDS DLP",
+        "secondTeam": "OLYMPIQUE GONES DE PARIS",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-11-08T23:00:00.000Z",
+        "firstTeam": "LA SALESIENNE DE PARIS",
+        "secondTeam": "LES 7 MERCENAIRES FC",
+        "resultOrLocation": "Reporté"
+      }
+    ],
+    [
+      {
+        "date": "2020-11-15T23:00:00.000Z",
+        "firstTeam": "EXEMPT",
+        "secondTeam": "SC SOCIETE CREME",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-11-15T23:00:00.000Z",
+        "firstTeam": "REAL DE MARTINE",
+        "secondTeam": "LES 13 SALOPARDS DLP",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-11-15T23:00:00.000Z",
+        "firstTeam": "LES 7 MERCENAIRES FC",
+        "secondTeam": "LES COUSINS FC",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-11-15T23:00:00.000Z",
+        "firstTeam": "OLYMPIQUE GONES DE PARIS",
+        "secondTeam": "LA SALESIENNE DE PARIS",
+        "resultOrLocation": "Reporté"
+      }
+    ],
+    [
+      {
+        "date": "2020-11-22T23:00:00.000Z",
+        "firstTeam": "LES 13 SALOPARDS DLP",
+        "secondTeam": "EXEMPT",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-11-22T23:00:00.000Z",
+        "firstTeam": "LES 7 MERCENAIRES FC",
+        "secondTeam": "SC SOCIETE CREME",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-11-22T23:00:00.000Z",
+        "firstTeam": "REAL DE MARTINE",
+        "secondTeam": "LA SALESIENNE DE PARIS",
+        "resultOrLocation": "Reporté"
+      },
+      {
+        "date": "2020-11-22T23:00:00.000Z",
+        "firstTeam": "OLYMPIQUE GONES DE PARIS",
+        "secondTeam": "LES COUSINS FC",
+        "resultOrLocation": "Reporté"
+      }
+    ],
+    [
+      {
+        "date": "2020-12-06T23:00:00.000Z",
+        "firstTeam": "EXEMPT",
+        "secondTeam": "LES 7 MERCENAIRES FC",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-12-06T23:00:00.000Z",
+        "firstTeam": "LA SALESIENNE DE PARIS",
+        "secondTeam": "LES 13 SALOPARDS DLP",
+        "resultOrLocation": "Porte d Asnières - 20h00 - Paris 17"
+      },
+      {
+        "date": "2020-12-06T23:00:00.000Z",
+        "firstTeam": "SC SOCIETE CREME",
+        "secondTeam": "OLYMPIQUE GONES DE PARIS",
+        "resultOrLocation": "Choisy n°2 A - 19h45"
+      },
+      {
+        "date": "2020-12-06T23:00:00.000Z",
+        "firstTeam": "LES COUSINS FC",
+        "secondTeam": "REAL DE MARTINE",
+        "resultOrLocation": "Choisy n°4 A - 21h05"
+      }
+    ],
+    [
+      {
+        "date": "2020-12-13T23:00:00.000Z",
+        "firstTeam": "LA SALESIENNE DE PARIS",
+        "secondTeam": "EXEMPT",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2020-12-13T23:00:00.000Z",
+        "firstTeam": "OLYMPIQUE GONES DE PARIS",
+        "secondTeam": "LES 7 MERCENAIRES FC",
+        "resultOrLocation": "La Plaine - 19h15 - Paris 15"
+      },
+      {
+        "date": "2020-12-13T23:00:00.000Z",
+        "firstTeam": "LES 13 SALOPARDS DLP",
+        "secondTeam": "LES COUSINS FC",
+        "resultOrLocation": "Choisy n°2 B - 21h05"
+      },
+      {
+        "date": "2020-12-13T23:00:00.000Z",
+        "firstTeam": "REAL DE MARTINE",
+        "secondTeam": "SC SOCIETE CREME",
+        "resultOrLocation": "Choisy n°23 B - 19h45"
+      }
+    ],
+    [
+      {
+        "date": "2021-01-10T23:00:00.000Z",
+        "firstTeam": "EXEMPT",
+        "secondTeam": "OLYMPIQUE GONES DE PARIS",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2021-01-10T23:00:00.000Z",
+        "firstTeam": "LES COUSINS FC",
+        "secondTeam": "LA SALESIENNE DE PARIS",
+        "resultOrLocation": "Porte d Asnières - 20h00 - Paris 17"
+      },
+      {
+        "date": "2021-01-10T23:00:00.000Z",
+        "firstTeam": "LES 7 MERCENAIRES FC",
+        "secondTeam": "REAL DE MARTINE",
+        "resultOrLocation": "La Plaine - 19h15 - Paris 15"
+      },
+      {
+        "date": "2021-01-10T23:00:00.000Z",
+        "firstTeam": "SC SOCIETE CREME",
+        "secondTeam": "LES 13 SALOPARDS DLP",
+        "resultOrLocation": "Choisy n°21 B - 21h05"
+      }
+    ],
+    [
+      {
+        "date": "2021-01-17T23:00:00.000Z",
+        "firstTeam": "LES COUSINS FC",
+        "secondTeam": "EXEMPT",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2021-01-17T23:00:00.000Z",
+        "firstTeam": "REAL DE MARTINE",
+        "secondTeam": "OLYMPIQUE GONES DE PARIS",
+        "resultOrLocation": "Porte Dauphine F7 - 21h05"
+      },
+      {
+        "date": "2021-01-17T23:00:00.000Z",
+        "firstTeam": "LA SALESIENNE DE PARIS",
+        "secondTeam": "SC SOCIETE CREME",
+        "resultOrLocation": "Porte d Asnières - 20h00 - Paris 17"
+      },
+      {
+        "date": "2021-01-17T23:00:00.000Z",
+        "firstTeam": "LES 13 SALOPARDS DLP",
+        "secondTeam": "LES 7 MERCENAIRES FC",
+        "resultOrLocation": "La Plaine - 19h15 - Paris 15"
+      }
+    ],
+    [
+      {
+        "date": "2021-01-24T23:00:00.000Z",
+        "firstTeam": "EXEMPT",
+        "secondTeam": "REAL DE MARTINE",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2021-01-24T23:00:00.000Z",
+        "firstTeam": "SC SOCIETE CREME",
+        "secondTeam": "LES COUSINS FC",
+        "resultOrLocation": "Poissonniers honneur B - 19h15"
+      },
+      {
+        "date": "2021-01-24T23:00:00.000Z",
+        "firstTeam": "OLYMPIQUE GONES DE PARIS",
+        "secondTeam": "LES 13 SALOPARDS DLP",
+        "resultOrLocation": "Porte Dauphine F7 - 21h05"
+      },
+      {
+        "date": "2021-01-24T23:00:00.000Z",
+        "firstTeam": "LES 7 MERCENAIRES FC",
+        "secondTeam": "LA SALESIENNE DE PARIS",
+        "resultOrLocation": "La Plaine - 19h15 - Paris 15"
+      }
+    ],
+    [
+      {
+        "date": "2021-02-07T23:00:00.000Z",
+        "firstTeam": "SC SOCIETE CREME",
+        "secondTeam": "EXEMPT",
+        "resultOrLocation": "EXEMPT"
+      },
+      {
+        "date": "2021-02-07T23:00:00.000Z",
+        "firstTeam": "LES 13 SALOPARDS DLP",
+        "secondTeam": "REAL DE MARTINE",
+        "resultOrLocation": "Choisy n°23 A - 19h45"
+      },
+      {
+        "date": "2021-02-07T23:00:00.000Z",
+        "firstTeam": "LES COUSINS FC",
+        "secondTeam": "LES 7 MERCENAIRES FC",
+        "resultOrLocation": "La Plaine - 19h15 - Paris 15"
+      },
+      {
+        "date": "2021-02-07T23:00:00.000Z",
+        "firstTeam": "LA SALESIENNE DE PARIS",
+        "secondTeam": "OLYMPIQUE GONES DE PARIS",
+        "resultOrLocation": "Porte d Asnières - 20h00 - Paris 17"
+      }
+    ]
+  ],
+  "rankingTable": [
+    {
+      "teamPosition": 1,
+      "teamName": "LA SALESIENNE DE PARIS",
+      "points": 8,
+      "numberOfGames": 3,
+      "wonGames": 2,
+      "drawGames": 1,
+      "lostGames": 0,
+      "scoredGoals": 8,
+      "concededGoals": 5
+    },
+    {
+      "teamPosition": 2,
+      "teamName": "LES 7 MERCENAIRES FC",
+      "points": 6,
+      "numberOfGames": 2,
+      "wonGames": 2,
+      "drawGames": 0,
+      "lostGames": 0,
+      "scoredGoals": 21,
+      "concededGoals": 8
+    },
+    {
+      "teamPosition": 3,
+      "teamName": "LES 13 SALOPARDS DLP",
+      "points": 5,
+      "numberOfGames": 2,
+      "wonGames": 1,
+      "drawGames": 1,
+      "lostGames": 0,
+      "scoredGoals": 11,
+      "concededGoals": 4
+    },
+    {
+      "teamPosition": 4,
+      "teamName": "REAL DE MARTINE",
+      "points": 5,
+      "numberOfGames": 3,
+      "wonGames": 1,
+      "drawGames": 0,
+      "lostGames": 2,
+      "scoredGoals": 14,
+      "concededGoals": 16
+    },
+    {
+      "teamPosition": 5,
+      "teamName": "SC SOCIETE CREME",
+      "points": 5,
+      "numberOfGames": 3,
+      "wonGames": 1,
+      "drawGames": 0,
+      "lostGames": 2,
+      "scoredGoals": 10,
+      "concededGoals": 20
+    },
+    {
+      "teamPosition": 6,
+      "teamName": "OLYMPIQUE GONES DE PARIS",
+      "points": 4,
+      "numberOfGames": 2,
+      "wonGames": 1,
+      "drawGames": 0,
+      "lostGames": 1,
+      "scoredGoals": 6,
+      "concededGoals": 6
+    },
+    {
+      "teamPosition": 7,
+      "teamName": "LES COUSINS FC",
+      "points": 3,
+      "numberOfGames": 3,
+      "wonGames": 0,
+      "drawGames": 0,
+      "lostGames": 3,
+      "scoredGoals": 4,
+      "concededGoals": 15
+    }
+  ]
+}

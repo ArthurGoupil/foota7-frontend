@@ -9,7 +9,7 @@ textarea,
 button {
   font-family: 'Noto Sans JP', sans-serif;
   font-weight: 500;
-  color: #1a4651;
+  color: #302e2e;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
@@ -31,10 +31,20 @@ i {
   font-style: italic;
 }
 
+/* LINKS */
+a {
+  text-decoration: none;
+  color: #008538;
+}
+a:visited {
+  color: #008538;
+}
+
 /* TITLES */
 h1 {
-  font-size: 25px;
-  line-height: 30px;
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 50px;
+  line-height: 55px;
   font-weight: bold;
 }
 h2 {
